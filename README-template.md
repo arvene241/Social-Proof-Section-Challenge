@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.jpg)
+![Screenshot](https://github.com/arvene241/Social-Proof-Section-Challenge/blob/main/Screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -92,9 +92,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - Mike Arvene Lantin (https://www.your-site.com)
-- Frontend Mentor - @arvene241 (https://www.frontendmentor.io/profile/arvene241t)
-- Twitter - @arvenelantin (https://twitter.com/arvenelantin)
+- Website - [Mike Arvene Lantin](https://www.your-site.com)
+- Frontend Mentor - [@arvene241](https://www.frontendmentor.io/profile/arvene241t)
+- Twitter - [@arvenelantin](https://twitter.com/arvenelantin)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
