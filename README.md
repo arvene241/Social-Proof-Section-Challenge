@@ -1,1 +1,2 @@
-# Social-Proof-Section-Challenge
+# Frontend Mentor Challenge
+# Social-Proof-Section-Solution
